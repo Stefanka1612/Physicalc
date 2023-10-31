@@ -1,6 +1,8 @@
 import java.awt.*;
 import javax.swing.*;
 
+/* This class provides the Panels to further specify the main physics fields */
+
 public class FieldOverviewPane extends JPanel {
 
     int appWidth;
